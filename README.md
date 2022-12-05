@@ -1,1 +1,2 @@
-# PokerSimulator
+# Poker Simulator
+Run PokerSimulator in whichever Java IDE you like. Upon running the program, enter however many poker hands should be dealt. The program will then compute all hands dealt and output the stats of which poker hands were dealt. These are displayed with the total number of that type of hand as well as its percentage of the overall hands. Lastly, the program will output the time it took to analyze all hands.
